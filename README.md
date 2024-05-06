@@ -19,3 +19,11 @@ npm install create-next-app@latest
 ```
 
 [panduan lengkap next-js](https://nextjs.org/docs)
+
+## Instalasi Next-intl
+
+```sh
+npm install next-intl
+```
+
+[panduan lengkap next-intl](https://next-intl-docs.vercel.app/docs/getting-started/app-router)
