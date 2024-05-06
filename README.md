@@ -10,4 +10,12 @@ Next.js internationalization is the process of creating a web application using 
 
 Internasionalisasi Next.js adalah proses membuat aplikasi web menggunakan Next.js agar dapat dengan mudah diadaptasi untuk berbagai bahasa dan wilayah. Ini melibatkan penggunaan alat dan teknik untuk menerjemahkan teks, mengatur format tanggal dan angka sesuai dengan konvensi lokal, serta menangani aspek-aspek lain dari lokalitas. Oleh karena itu, aplikasi yang dibangun dengan Next.js dapat dinikmati oleh pengguna di seluruh dunia tanpa hambatan bahasa atau budaya.
 
-### atau juga bisa membaca docs nya lebih lanjut[next-intl](https://next-intl-docs.vercel.app/docs/getting-started)
+### atau juga bisa membaca docs nya lebih lanjut [next-intl](https://next-intl-docs.vercel.app/docs/getting-started)
+
+## Instalasi Next-JS
+
+```sh
+npm install create-next-app@latest
+```
+
+[panduan lengkap next-js](https://nextjs.org/docs)
